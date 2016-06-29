@@ -1,0 +1,16 @@
+{
+    "name": "owncloud/changelogger",
+    "autoload": {
+        "psr-4": {"Owncloud\\Changelogger\\": "src/"}
+    },
+    "require": {
+        "milo/github-api": "^1.4"
+    },
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Victor Dubiniuk",
+            "email": "dubiniuk@owncloud.com"
+        }
+    ]
+}
